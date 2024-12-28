@@ -3,7 +3,7 @@
 ## Steps:
 
 ### 1) Created an instance and added port 80 also ssh(open it).
-### 2) Installed LEMP, php-fpm, php-mysqlx86_64
+### 2) Installed LEMP, php-fpm, php8.3-mysqlx86_64
 
 ![Screenshot (9)](https://github.com/user-attachments/assets/f31e5f4e-f9d8-4f24-bdbc-31e8bd152ed9)
 
